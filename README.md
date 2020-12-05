@@ -11,7 +11,6 @@
 6. [Acknowledgements](#Licensing)
 
 
-===================================
 Bike Sharing Dataset
 ===================================
 
